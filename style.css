@@ -1,0 +1,16 @@
+/* ---GERAL--- */
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 0;
+}
+
+.quadrado{
+    border-color: solid 2px blueviolet;
+    padding: 20px;
+}
+
+h3{
+    color: rgb(226, 66, 66);
+    font-size: 30px;
+}
